@@ -1,5 +1,11 @@
 # Simulated Cassava Analytics Portfolio Demo
+## Live Demo
 
+🚀 [Launch Cassava Business Analytics Dashboard](https://cassava-business-analytics-demo-7gfspdy2l8nuab3pxdxw9f.streamlit.app/)
+
+Explore my interactive Cassava Business Analytics Dashboard built with Python, Pandas, Streamlit, and Machine Learning.
+
+**Note:** This public demo uses fictional business data to protect real business information.
 This read-only Streamlit demonstration uses **entirely fictional data** generated
 by arithmetic in demo_data.py. No real transactions are copied, anonymized or
 transformed. It generates 112 fictional transactions over 56 days beginning
